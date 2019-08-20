@@ -1,4 +1,4 @@
 # calculadorajs
-Calculadora Feita JavaScript parte do Curso de JAvaScript da HCODE
+Calculadora Feita JavaScript parte do Curso de JavaScript da HCODE
 
 Danivaldo R Sousa
